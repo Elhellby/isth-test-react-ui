@@ -1,0 +1,19 @@
+.contenedor-tarjeta {
+    /* width: 250px; */
+}
+
+.contenedor-tarjeta .card {
+    border: none;
+}
+
+.contenedor-tarjeta label {
+    position: relative;
+    top: -20px;
+    font-size: 11px;
+    margin: 0px;
+    padding: 0px;;
+}
+
+.contenedor-tarjeta hr {
+    margin-top: 0px;
+}

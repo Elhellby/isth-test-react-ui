@@ -1,0 +1,44 @@
+[
+    {
+        "precio": 4632,
+        "estatus": "inactivo",
+        "exento": "Excento",
+        "descripcion": "producto demo A",
+        "gtq": 89
+    },
+    {
+        "precio": 9348.34,
+        "estatus": "activo",
+        "exento": "",
+        "descripcion": "producto demo T",
+        "gtq": 90.9
+    },
+    {
+        "precio": 1000,
+        "estatus": "activo",
+        "exento": "Excento",
+        "descripcion": "producto demo 2",
+        "gtq": 66
+    },
+    {
+        "precio": 927,
+        "estatus": "inactivo",
+        "exento": "",
+        "descripcion": "producto demo J",
+        "gtq": 354
+    },
+    {
+        "precio": 6654,
+        "estatus": "activo",
+        "exento": "Excento",
+        "descripcion": "producto demo H",
+        "gtq": 88
+    },
+    {
+        "precio": 6700,
+        "estatus": "activo",
+        "exento": "Excento",
+        "descripcion": "producto demo O",
+        "gtq": 90
+    }
+]

@@ -1,0 +1,14 @@
+.formulario-busqueda{
+
+}
+
+.formulario-busqueda label{
+    font-weight: bold;
+}
+
+input[type=text] {
+    border: none !important;
+    border-bottom: 2px solid #a29a9a !important;
+    border-radius: 0px !important;
+    background-color: #f0efef !important;
+}
